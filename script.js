@@ -444,7 +444,7 @@ document.addEventListener('DOMContentLoaded', function() {
         closePopup();
         
         // Define the redirect URL (you can change this to any URL you want)
-        const redirectUrl = 'https://denorvicc.github.io/abonaviaroperties/'; // Change this URL
+        const redirectUrl = 'https://guarranovicc.github.io/midasmanagement/'; // Change this URL
         
         console.log('Redirecting to:', redirectUrl);
         
